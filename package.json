@@ -1,0 +1,24 @@
+{
+  "name": "desafio-tecnico-dti",
+  "version": "1.0.0",
+  "description": "Case Técnico para o processo seletivo da DTI. Automação de testes da página de login 'Automation Practice' utilizando JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Luiz14/desafio-tecnico-dti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Luiz14/desafio-tecnico-dti/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Luiz14/desafio-tecnico-dti#readme",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}
